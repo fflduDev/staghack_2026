@@ -16,4 +16,4 @@
 to run the program: 
     - run > python app.py 
     - note the port - 9091 by default
-    - navigate to browser & request http://<your vm ip>:9091/
+    - navigate to browser & request http://your vm ip:9091/
