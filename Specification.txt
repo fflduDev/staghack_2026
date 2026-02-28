@@ -1,0 +1,18 @@
+Problem Definition:
+- Build a healthy habits tracking app that spans across fitness, exercise, good eating, water intake, positive and habit reinforcement.
+
+Requirements:
+- Way to track daily and weekly habits.
+- Habit Logging
+- Progress Visualization through charts, streaks, summaries, leaderboards.
+
+Potential Considerations:
+- AI or data-driven insights
+- Wearable integration (Healthkit API [Difficult])
+- Personalization / Adaptive Reccomendations (Notifications to recommend standing up, drinking a glass of water, doing an excercise/meditation)
+- Gamification Elements (Completing goals offers virtual currency to decorate a room?)
+- Social or Accountablility Features (Leaderboard Feature, Pomodoro Timer for Locking Phone)
+- Ethical Design Considerations (Privacy / Accesibility)
+
+Feasibility Analysis:
+Our application will function as a complete fitness, nutrition, and healthy habit tracker app, aiming to encompass cura personalis. Our app will be written with a React frontend, and a Typescript backend, which should be relativley straigtforward to implement. MongoDB will be used to store account data, health data, leaderboard statistics, and any other elements that need to be stored. For the backend web server we will use Express. For our AI Service, we will use a lightweight AI model in 4.0 Nano, to balance cost efficiency. All of this follows standard practice in app development, and while our project is loaded with features and ambitious, we believe that it is possible to pull off.
